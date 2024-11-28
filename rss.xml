@@ -2,15 +2,15 @@
 <rss version="2.0">
     <channel>
         <title>随笔</title>
-        <link>https://www.xusomeone.top</link>
-        <description>dsdasda</description>
+        <link>https://xu-someone.github.io</link>
+        <description>大家好，我是徐某人，在这里分享一些有趣的内容</description>
         <language>zh-CN</language>
         <pubDate>Wed, 27 Nov 2024 10:26:24 +0800</pubDate>
         <lastBuildDate>Wed, 27 Nov 2024 10:26:24 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://www.xusomeone.top/2024/11/27/hello-world/</guid>
+            <guid isPermalink="true">https://xu-someone.github.io/2024/11/27/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://www.xusomeone.top/2024/11/27/hello-world/</link>
+            <link>https://xu-someone.github.io/2024/11/27/hello-world/</link>
             <pubDate>Wed, 27 Nov 2024 10:26:24 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
